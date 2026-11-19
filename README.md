@@ -99,7 +99,7 @@ The receiver processes wireless commands and controls the robotic arm. It also m
 
 ### 2. Servo Motor Joints
 
-![Servo Motor Joints](Images/Sevomotor_joints.jpeg)
+![Servo Motor Joints](Images/Servomotor_joints.jpeg)
 
 ### 3. Receiver Side Circuit
 
@@ -204,7 +204,7 @@ wireless-robotic-arm/
 │
 ├── Images/
 │   ├── Robotic_ARM.jpeg
-│   ├── Sevomotor_joints.jpeg
+│   ├── Servomotor_joints.jpeg
 │   ├── Receiver_side_circuit.jpeg
 │   ├── Tranmitter_side_circuit.jpeg
 │   └── Flow Diagram.png
